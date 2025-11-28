@@ -35,4 +35,8 @@ add_executable(parte1_real src/navegador_parte1_real.cpp)
 ament_target_dependencies(parte1_real rclcpp cg_interfaces std_srvs)
 install(TARGETS parte1_real DESTINATION lib/${PROJECT_NAME})
 
+add_executable(parte2 src/navegador_parte2.cpp)
+ament_target_dependencies(parte2 rclcpp cg_interfaces)
+install(TARGETS parte2 DESTINATION lib/${PROJECT_NAME})
+
 ament_package()
