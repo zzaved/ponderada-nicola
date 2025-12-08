@@ -1,5 +1,7 @@
 # Navegação Autônoma em Labirintos - ROS 2 (macOS)
 
+[Acesse o vídeo do projeto clicando aqui](https://youtu.be/6haRabsnMYE)
+
 ## Objetivo do Projeto
 
 Este projeto implementa dois algoritmos de navegação robótica em labirintos usando ROS 2 Humble no macOS (Apple Silicon):
