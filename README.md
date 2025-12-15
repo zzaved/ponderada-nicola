@@ -2,6 +2,8 @@
 
 [Acesse o vídeo do projeto clicando aqui](https://youtu.be/6haRabsnMYE)
 
+[Acesse o vídeo de detalhamento técnico clicando aqui](https://youtu.be/fwQWaqR4IoI)
+
 ## Objetivo do Projeto
 
 Este projeto implementa dois algoritmos de navegação robótica em labirintos usando ROS 2 Humble no macOS (Apple Silicon):
